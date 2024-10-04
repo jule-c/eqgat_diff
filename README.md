@@ -1,8 +1,11 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;"> EQGAT-diff: Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation </h1>
 
 <p align='center' style="text-align:center;font-size:1.25em;">
-    <a >Tuan Le<sup>1,2</sup></a>&nbsp;,&nbsp;
-    <a >Julian Cremer<sup>2,3†</sup></a>&nbsp;,&nbsp;
+    <a >Tuan Le<sup>1*</sup></a>&nbsp;,&nbsp;
+    <a >Julian Cremer<sup>1*</sup></a>&nbsp;,&nbsp;
+    <a >Djork-Arné Clevert<sup>1</sup></a>&nbsp;,&nbsp;
+    <a >Kristof T. Schütt<sup>1</sup></a>&nbsp;,&nbsp;
+<sup>*</sup>Equal contribution&nbsp;&nbsp;&nbsp;
 <sup>1</sup>Pfizer Research & Development&nbsp;&nbsp;&nbsp;
 </p>
 
