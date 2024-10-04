@@ -5,9 +5,12 @@
     <a >Julian Cremer<sup>1*</sup></a>&nbsp;,&nbsp;
     <a >Djork-Arné Clevert<sup>1</sup></a>&nbsp;,&nbsp;
     <a >Kristof T. Schütt<sup>1</sup></a>&nbsp;,&nbsp;
+</p>
+<p>
 <b>
 <sup>*</sup>Equal contribution&nbsp;&nbsp;&nbsp;
 <sup>1</sup>Pfizer Research & Development&nbsp;&nbsp;&nbsp;
+</b>
 </p>
 
 
