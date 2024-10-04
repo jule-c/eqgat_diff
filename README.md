@@ -6,7 +6,7 @@
     <a >Djork-Arné Clevert<sup>1</sup></a>&nbsp;,&nbsp;
     <a >Kristof T. Schütt<sup>1</sup></a>&nbsp;,&nbsp;
 </p>
-<p>
+<p align='center';>
 <b>
 <sup>*</sup>Equal contribution&nbsp;&nbsp;&nbsp;
 <sup>1</sup>Pfizer Research & Development&nbsp;&nbsp;&nbsp;
